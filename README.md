@@ -1,11 +1,11 @@
-# ✈️ Flight Booking Automation Framework
+#  Flight Booking Automation Framework
 
 This project is a Selenium Automation Framework built using Java, TestNG, and Page Object Model (POM).  
 It automates the complete end-to-end flight booking flow on BlazeDemo website.
 
 ---
 
-## 🚀 Project Description
+##  Project Description
 
 This framework performs:
 
@@ -20,7 +20,7 @@ The framework follows the Page Object Model (POM) design pattern for better main
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java
 - Selenium WebDriver
@@ -31,11 +31,11 @@ The framework follows the Page Object Model (POM) design pattern for better main
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ---
 
-## 🧩 Modules Implemented
+##  Modules Implemented
 
 ### Module 1 – Home Page
 - Select departure city
@@ -60,7 +60,7 @@ The framework follows the Page Object Model (POM) design pattern for better main
 
 ---
 
-## ✅ Test Validation
+## Test Validation
 
 The framework validates:
 
@@ -68,7 +68,7 @@ If the message matches, the test passes successfully.
 
 ---
 
-## ▶️ How to Run the Project
+##How to Run the Project
 
 1. Clone the repository
 2. Import as Maven Project in Eclipse
@@ -77,7 +77,7 @@ If the message matches, the test passes successfully.
 
 ---
 
-## 🎯 Features
+## Features
 
 - Page Object Model design
 - Modular framework
@@ -87,7 +87,7 @@ If the message matches, the test passes successfully.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Aditya Jaiswal  
 QA Automation Engineer (Fresher)
