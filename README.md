@@ -9,12 +9,12 @@ It automates the complete end-to-end flight booking flow on BlazeDemo website.
 
 This framework performs:
 
-✔ Flight Search (Select departure & destination cities)  
-✔ Flight Selection  
-✔ Passenger Details Entry  
-✔ Flight Purchase  
-✔ Booking Confirmation Validation  
-✔ Booking ID Extraction  
+ Flight Search (Select departure & destination cities)  
+ Flight Selection  
+ Passenger Details Entry  
+ Flight Purchase  
+ Booking Confirmation Validation  
+ Booking ID Extraction  
 
 The framework follows the Page Object Model (POM) design pattern for better maintainability and scalability.
 
